@@ -1,5 +1,5 @@
-# Agent Skeletons
-A collection of links to agent skeleton repos.
+# Desk Skeletons
+A collection of links to desk skeleton repos.
 
 | Desk Name | Author | Description |
 |-----------|--------|-------------|
